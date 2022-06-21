@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "influxdbclient"]
+	path = influxdbclient
+	url = https://github.com/influxdata/influxdb-client-r
+	shallow = true
+	registered = true
